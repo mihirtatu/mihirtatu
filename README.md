@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mihirtatu
-- 👀 I’m interested in software development, application development and we development.
+- 👀 I’m interested in software development, application development and web development.
 - 🌱 I’m currently learning coding in C, C++, Python, HTML, CSS and Javascript, etc
 - 💞️ I’m looking to collaborate on various coding based solutions.
 - 📫 How to reach me ... E-mail: mihirtatu@gmail.com
